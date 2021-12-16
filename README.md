@@ -2,14 +2,14 @@
 
 ## The first part of the course included -> 
 
- -Data types
- -Arrays
- -Methods
- -Lists
- -Simple Objects and Classes
+ - Data types
+ - Arrays
+ - Methods
+ - Lists
+ - Simple Objects and Classes
 
 ## The second part of the course included ->
 
- -Associative Arrays
- -Text Proccessing
- -Regular Expressions
+ - Associative Arrays
+ - Text Proccessing
+ - Regular Expressions
